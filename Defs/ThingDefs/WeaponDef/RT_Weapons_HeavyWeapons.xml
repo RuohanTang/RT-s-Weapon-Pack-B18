@@ -435,7 +435,7 @@
 		  <AccuracyShort>0.45</AccuracyShort>
 		  <AccuracyMedium>0.75</AccuracyMedium>
 		  <AccuracyLong>0.59</AccuracyLong>
-		  <RangedWeapon_Cooldown>5.5</RangedWeapon_Cooldown>
+		  <RangedWeapon_Cooldown>3</RangedWeapon_Cooldown>
 		  <Weapon_Bulk>2.0</Weapon_Bulk>
 		</statBases>
 		<equippedStatOffsets>
@@ -467,10 +467,10 @@
 			<verbClass>Verb_Shoot</verbClass>
 			<hasStandardCommand>true</hasStandardCommand>
 			<defaultProjectile>Bullet_M32MGL_rt</defaultProjectile>
-			<warmupTime>1.4</warmupTime>
+			<warmupTime>6</warmupTime>
 			<range>37</range>
 			<ai_IsBuildingDestroyer>true</ai_IsBuildingDestroyer>
-			<ticksBetweenBurstShots>60</ticksBetweenBurstShots>
+			<ticksBetweenBurstShots>120</ticksBetweenBurstShots>
 			<burstShotCount>6</burstShotCount>
             <forcedMissRadius>3</forcedMissRadius>
 			<soundCast>GrenadeLauncherShot</soundCast>

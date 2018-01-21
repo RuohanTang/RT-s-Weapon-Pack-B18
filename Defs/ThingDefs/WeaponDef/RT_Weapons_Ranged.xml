@@ -404,7 +404,7 @@
     <projectile>
       <flyOverhead>false</flyOverhead>
       <damageDef>Arrow</damageDef>
-      <damageAmountBase>20</damageAmountBase>
+      <damageAmountBase>15</damageAmountBase>
       <speed>40</speed>
     </projectile>
   </ThingDef>
@@ -419,10 +419,10 @@
     <soundInteract>BowLarge</soundInteract>
     <statBases>
       <Mass>2.5</Mass>
-      <AccuracyTouch>0.30</AccuracyTouch>
-      <AccuracyShort>0.64</AccuracyShort>
+      <AccuracyTouch>0.60</AccuracyTouch>
+      <AccuracyShort>0.80</AccuracyShort>
       <AccuracyMedium>0.95</AccuracyMedium>
-      <AccuracyLong>0.68</AccuracyLong>
+      <AccuracyLong>0.65</AccuracyLong>
       <RangedWeapon_Cooldown>0.66</RangedWeapon_Cooldown>
 	  <Weapon_Bulk>0.9</Weapon_Bulk>
     </statBases>
@@ -435,7 +435,7 @@
         <hasStandardCommand>true</hasStandardCommand>
         <defaultProjectile>Arrow_Compound_rt</defaultProjectile>
 		<warmupTime>1</warmupTime>
-        <range>29</range>
+        <range>30</range>
         <soundCast>BowLarge</soundCast>
 		<burstShotCount>1</burstShotCount>
 		<ticksBetweenBurstShots>5</ticksBetweenBurstShots>			
@@ -465,7 +465,7 @@
     <projectile>
       <flyOverhead>false</flyOverhead>
       <damageDef>Arrow</damageDef>
-      <damageAmountBase>10</damageAmountBase>
+      <damageAmountBase>25</damageAmountBase>
       <speed>45</speed>	  
     </projectile>
   </ThingDef>
@@ -481,8 +481,8 @@
     <canBeSpawningInventory>true</canBeSpawningInventory> 
     <statBases>
       <Mass>3</Mass>
-      <AccuracyTouch>0.50</AccuracyTouch>
-      <AccuracyShort>0.64</AccuracyShort>
+      <AccuracyTouch>0.60</AccuracyTouch>
+      <AccuracyShort>0.65</AccuracyShort>
       <AccuracyMedium>0.75</AccuracyMedium>
       <AccuracyLong>0.90</AccuracyLong>
       <RangedWeapon_Cooldown>0.66</RangedWeapon_Cooldown>
@@ -496,10 +496,10 @@
         <verbClass>Verb_Shoot</verbClass>
         <hasStandardCommand>true</hasStandardCommand>
         <defaultProjectile>Arrow_TCrossbow_rt</defaultProjectile>
-		<warmupTime>2</warmupTime>
-        <range>38</range>
+		<warmupTime>3</warmupTime>
+        <range>20</range>
         <soundCast>BowLarge</soundCast>
-		<burstShotCount>3</burstShotCount>
+		<burstShotCount>1</burstShotCount>
 		<ticksBetweenBurstShots>45</ticksBetweenBurstShots>			
       </li>
     </verbs>

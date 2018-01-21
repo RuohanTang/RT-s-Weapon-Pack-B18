@@ -313,7 +313,7 @@
     </graphicData>
     <projectile>
       <damageDef>Bullet</damageDef>
-      <damageAmountBase>14</damageAmountBase>
+      <damageAmountBase>12</damageAmountBase>
       <speed>80</speed>
     </projectile>
   </ThingDef>
@@ -331,8 +331,8 @@
 	  <Mass>3.2</Mass>
 	  <AccuracyTouch>0.68</AccuracyTouch>
 	  <AccuracyShort>0.80</AccuracyShort>
-	  <AccuracyMedium>0.75</AccuracyMedium>
-	  <AccuracyLong>0.60</AccuracyLong>	  
+	  <AccuracyMedium>0.70</AccuracyMedium>
+	  <AccuracyLong>0.55</AccuracyLong>	  
 	  <RangedWeapon_Cooldown>0.88</RangedWeapon_Cooldown>
 	  <Weapon_Bulk>1.0</Weapon_Bulk>
 	</statBases>	
@@ -361,7 +361,7 @@
 		<hasStandardCommand>true</hasStandardCommand>
 		<defaultProjectile>Bullet_LVOAC_rt</defaultProjectile>
         <warmupTime>1.5</warmupTime>
-		<range>41</range>
+		<range>38</range>
 		<burstShotCount>4</burstShotCount>
 		<ticksBetweenBurstShots>4</ticksBetweenBurstShots>
 		<soundCast>LVOAShot</soundCast>
@@ -593,7 +593,7 @@
     <projectile>
       <flyOverhead>false</flyOverhead>
       <damageDef>Bullet</damageDef>
-      <damageAmountBase>13</damageAmountBase>
+      <damageAmountBase>12</damageAmountBase>
       <speed>80</speed>
     </projectile>
   </ThingDef>
@@ -612,7 +612,7 @@
 	  <AccuracyTouch>0.65</AccuracyTouch>
 	  <AccuracyShort>0.75</AccuracyShort>
 	  <AccuracyMedium>0.70</AccuracyMedium>
-	  <AccuracyLong>0.65</AccuracyLong>
+	  <AccuracyLong>0.60</AccuracyLong>
 	  <RangedWeapon_Cooldown>0.65</RangedWeapon_Cooldown>
 	  <Weapon_Bulk>1.0</Weapon_Bulk>
 	</statBases>	
@@ -641,7 +641,7 @@
 		<hasStandardCommand>true</hasStandardCommand>
 		<defaultProjectile>Bullet_AK5C_rt</defaultProjectile>
         <warmupTime>1.9</warmupTime>
-		<range>42</range>
+		<range>40</range>
 		<burstShotCount>3</burstShotCount>
 		<ticksBetweenBurstShots>6</ticksBetweenBurstShots>
 		<soundCast>ShotAssaultRifle</soundCast>

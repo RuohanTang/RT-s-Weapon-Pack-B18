@@ -398,7 +398,7 @@
       <AccuracyShort>0.70</AccuracyShort>
       <AccuracyMedium>0.87</AccuracyMedium>
       <AccuracyLong>0.90</AccuracyLong>
-      <RangedWeapon_Cooldown>2.00</RangedWeapon_Cooldown> 
+      <RangedWeapon_Cooldown>4.00</RangedWeapon_Cooldown> 
  <Weapon_Bulk>2.0</Weapon_Bulk>
     </statBases>
 	<equippedStatOffsets>
@@ -428,7 +428,7 @@
         <verbClass>Verb_Shoot</verbClass>
         <hasStandardCommand>true</hasStandardCommand>
         <defaultProjectile>Bullet_Barrett_rt</defaultProjectile>
-        <warmupTime>3.0</warmupTime>
+        <warmupTime>4</warmupTime>
         <burstShotCount>1</burstShotCount>
         <ticksBetweenBurstShots>30</ticksBetweenBurstShots>		
         <range>55</range>
