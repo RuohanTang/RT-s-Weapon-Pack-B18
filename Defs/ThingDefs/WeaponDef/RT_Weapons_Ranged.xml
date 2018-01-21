@@ -126,9 +126,9 @@
     <statBases>
       <Mass>0.5</Mass>
       <AccuracyTouch>0.95</AccuracyTouch>
-      <AccuracyShort>0.90</AccuracyShort>
+      <AccuracyShort>0.95</AccuracyShort>
       <AccuracyMedium>0.90</AccuracyMedium>
-      <AccuracyLong>0.85</AccuracyLong>
+      <AccuracyLong>0.90</AccuracyLong>
       <RangedWeapon_Cooldown>0.5</RangedWeapon_Cooldown>
 	  <Weapon_Bulk>0.1</Weapon_Bulk>
 	  <MarketValue>50</MarketValue>
@@ -142,7 +142,7 @@
         <verbClass>Verb_Shoot</verbClass>
         <hasStandardCommand>true</hasStandardCommand>
         <defaultProjectile>Proj_Slingshot_rt</defaultProjectile>
-		<warmupTime>1</warmupTime>
+		<warmupTime>1.5</warmupTime>
         <range>29</range>
         <soundCast>SlingShot</soundCast>
 		<!-- <burstShotCount>2</burstShotCount>
