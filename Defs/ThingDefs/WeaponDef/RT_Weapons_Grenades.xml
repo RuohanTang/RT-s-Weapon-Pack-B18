@@ -384,8 +384,8 @@
     </graphicData>
     <soundInteract>InteractGrenade</soundInteract>
     <techLevel>Industrial</techLevel>
+    <stackLimit>10</stackLimit>	
     <statBases>
-
       <Mass>0.3</Mass>	  
     </statBases>
     <thingCategories>
@@ -453,8 +453,8 @@
     </graphicData>
     <soundInteract>InteractGrenade</soundInteract>
     <techLevel>Industrial</techLevel>
+    <stackLimit>5</stackLimit>	
     <statBases>
-
       <Mass>0.3</Mass>	  
     </statBases>
     <thingCategories>
