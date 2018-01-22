@@ -1,12 +1,18 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
+ <!-- ==================== SmokeGrenade ========================== -->   
+  <Proj_SmokeGrenade_rt.label>M18 烟雾弹</Proj_SmokeGrenade_rt.label>
+  <Weapon_M18SmokeGrenade_rt.label>M18 烟雾弹挂包</Weapon_M18SmokeGrenade_rt.label>
+  <Weapon_M18SmokeGrenade_rt.description>M18烟雾弹是美国陆军使用的一种地对地，地对空的信号设备。烟雾不但能起到屏障的作用，还有一定灭火功能！</Weapon_M18SmokeGrenade_rt.description>
+   <Weapon_M18SmokeGrenade_rt.verbs.0.label>投掷泡沫灭火手雷</Weapon_M18SmokeGrenade_rt.verbs.0.label>
+ 
+  
   <!-- Frag grenade -->
 
   <Proj_M67FragGrenade.label>M67破片手雷</Proj_M67FragGrenade.label>
-  <Weapon_M67FragGrenade.label>M67破片手雷挂包</Weapon_M67FragGrenade.label>
-  <Weapon_M67FragGrenade.description>M67破片手雷是美国陆军使用的一种破片式手榴弹，它是用来快速清理室内敌人的好帮手。</Weapon_M67FragGrenade.description>
-  <Weapon_M67FragGrenade.verbs.0.label>投掷M67破片手雷</Weapon_M67FragGrenade.verbs.0.label>
+  <Weapon_M67FragGrenade_rt.label>M67破片手雷挂包</Weapon_M67FragGrenade_rt.label>
+  <Weapon_M67FragGrenade_rt.description>M67破片手雷是美国陆军使用的一种破片式手榴弹，它是用来快速清理室内敌人的好帮手。</Weapon_M67FragGrenade_rt.description>
+  <Weapon_M67FragGrenade_rt.verbs.0.label>投掷M67破片手雷</Weapon_M67FragGrenade_rt.verbs.0.label>
 
 
   <!-- Flashbang grenade -->
@@ -37,9 +43,10 @@
   <!-- Firefoam Grenade -->
 
   <Proj_FirefoamGrenade_rt.label>泡沫灭火手雷</Proj_FirefoamGrenade_rt.label>
-
   <Weapon_FirefoamGrenade_rt.label>泡沫灭火手雷</Weapon_FirefoamGrenade_rt.label>
   <Weapon_FirefoamGrenade_rt.description>这是一个一次性使用的泡沫灭火手雷，可用来灭火。</Weapon_FirefoamGrenade_rt.description>
+  <Weapon_FirefoamGrenade_rt.verbs.0.label>投掷泡沫灭火手雷</Weapon_FirefoamGrenade_rt.verbs.0.label>
+
 
 
 </LanguageData>

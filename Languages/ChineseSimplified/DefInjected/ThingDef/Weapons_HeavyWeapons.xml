@@ -1,12 +1,21 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
+  <!-- M72LAW -->
+
+  <Bullet_M72LAW_rt.label>M72LAW火箭筒弹药</Bullet_M72LAW_rt.label>
+
+  <Gun_M72LAW_rt.label>M72LAW火箭筒</Gun_M72LAW_rt.label>
+  <Gun_M72LAW_rt.description>M72LAW火箭筒是美国赫西东方公司研制的一种美军制式单兵武器，也可用于对炮位、碉堡，建筑或轻型车辆等次要目标进行破坏，采用了预封装的可以发射的火箭和使用后即弃的发射器的全新制作理念，杀伤力大。</Gun_M72LAW_rt.description>
+
+
+
   <!-- M79GL -->
 
-  <Bullet_M79GL_rt.label>M79榴弹发射器弹药</Bullet_M79GL_rt.label>
+  <Bullet_M79_rt.label>M79榴弹发射器弹药</Bullet_M79_rt.label>
 
-  <Gun_M79GL.label>M79榴弹发射器</Gun_M79GL.label>
-  <Gun_M79GL.description>这是一种单发的肩扛式榴弹发射器，常用于突破行动，发射40x46mm榴弹。</Gun_M79GL.description>
+  <Gun_M79_rt.label>M79榴弹发射器</Gun_M79_rt.label>
+  <Gun_M79_rt.description>这是一种单发的肩扛式榴弹发射器，常用于突破行动，发射40x46mm榴弹。</Gun_M79_rt.description>
 
 
   <!-- PKM -->
@@ -21,16 +30,16 @@
 
   <Bullet_RPG_rt.label>RPG-7式40mm火箭筒弹药</Bullet_RPG_rt.label>
 
-  <Gun_RPG.label>RPG-7式40mm火箭筒</Gun_RPG.label>
-  <Gun_RPG.description>一种单兵肩扛式反装甲支援武器，使用火箭助推反装甲高爆弹用以对抗装甲单位，使用时请注意安全。</Gun_RPG.description>
+  <Gun_RPG_rt.label>RPG-7式40mm火箭筒</Gun_RPG_rt.label>
+  <Gun_RPG_rt.description>一种单兵肩扛式反装甲支援武器，使用火箭助推反装甲高爆弹用以对抗装甲单位，使用时请注意安全。</Gun_RPG_rt.description>
 
 
   <!-- M32MGL -->
 
   <Bullet_M32MGL_rt.label>M32MGL榴弹弹药</Bullet_M32MGL_rt.label>
 
-  <Gun_M32MGL.label>M32MGL榴弹发射器</Gun_M32MGL.label>
-  <Gun_M32MGL.description>这是一款低速并通过左轮驱动击发方式的手持榴弹发射器，六发弹药足够让你把那些该死的掠夺者和海盗轰上天。</Gun_M32MGL.description>
+  <Gun_M32MGL_rt.label>M32MGL榴弹发射器</Gun_M32MGL_rt.label>
+  <Gun_M32MGL_rt.description>这是一款低速并通过左轮驱动击发方式的手持榴弹发射器，六发弹药足够让你把那些该死的掠夺者和海盗轰上天。</Gun_M32MGL_rt.description>
 
 
   <!-- MG42 -->

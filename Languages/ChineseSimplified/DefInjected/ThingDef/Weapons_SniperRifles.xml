@@ -1,7 +1,15 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <!-- SteyrSSG08 -->
+
+  <Bullet_Karabiner98kurz_rt.label>Kar 98k毛瑟步枪子弹</Bullet_Karabiner98kurz_rt.label>
+
+  <Gun_Karabiner98kurz_rt.label>Kar 98k毛瑟步枪</Gun_Karabiner98kurz_rt.label>
+  <Gun_Karabiner98kurz_rt.description>Kar 98k毛瑟步枪，由Gew 98毛瑟步枪改进而来，Kar 98k步枪是第二次世界大战时期纳粹德国军队装备的制式步枪。</Gun_Karabiner98kurz_rt.description>
+ 
+
+
+ <!-- SteyrSSG08 -->
 
   <Bullet_308Winchester_rt.label>斯太尔SSG08狙击步枪子弹</Bullet_308Winchester_rt.label>
 

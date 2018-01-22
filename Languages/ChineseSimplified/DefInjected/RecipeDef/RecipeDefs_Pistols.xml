@@ -29,9 +29,9 @@
   <LugerP08Craft.description>制作鲁格P08手枪。</LugerP08Craft.description>
   <LugerP08Craft.jobString>正在制作鲁格P08手枪。</LugerP08Craft.jobString>
 
-  <DualBerettasCraft.label>制作贝瑞塔手枪</DualBerettasCraft.label>
-  <DualBerettasCraft.description>制作贝瑞塔手枪。</DualBerettasCraft.description>
-  <DualBerettasCraft.jobString>正在制作贝瑞塔手枪。</DualBerettasCraft.jobString>
+  <BerettaM9Craft.label>制作贝雷塔M9手枪</BerettaM9Craft.label>
+  <BerettaM9Craft.description>制作贝雷塔M9手枪。</BerettaM9Craft.description>
+  <BerettaM9Craft.jobString>正在制作贝雷塔M9手枪。</BerettaM9Craft.jobString>
 
 
 </LanguageData>

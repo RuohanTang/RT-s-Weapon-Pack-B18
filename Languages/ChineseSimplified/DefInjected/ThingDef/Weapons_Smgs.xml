@@ -1,6 +1,25 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
+
+  <!-- MP18 -->
+
+  <Bullet_MP18_rt.label>MP18冲锋枪子弹</Bullet_MP18_rt.label>
+
+  <Gun_MP18_rt.label>MP18冲锋枪</Gun_MP18_rt.label>
+  <Gun_MP18_rt.description>这是一款有着9×19mm弹夹的冲锋枪。</Gun_MP18_rt.description>
+
+
+
+  <!-- Beretta M12 -->
+
+  <Bullet_BerettaM12_rt.label>BerettaM12冲锋枪子弹</Bullet_BerettaM12_rt.label>
+
+  <Gun_BerettaM12_rt.label>BerettaM12冲锋枪</Gun_BerettaM12_rt.label>
+  <Gun_BerettaM12_rt.description>这是一款有着9×19mm弹夹的冲锋枪。</Gun_BerettaM12_rt.description>
+
+
+
   <!-- MP40 -->
 
   <Bullet_MP40_rt.label>MP40冲锋枪子弹</Bullet_MP40_rt.label>
@@ -51,7 +70,7 @@
 
   <!-- UMP-45 -->
 
-  <Bullet_HK_UMP45_rt.label>HK_UMP45冲锋枪子弹</Bullet_HK_UMP45_rt.label>
+  <Bullet_HK_UMP45_rt.label>HK UMP45冲锋枪子弹</Bullet_HK_UMP45_rt.label>
 
   <Gun_HK_UMP45_rt.label>HK-UMP45冲锋枪</Gun_HK_UMP45_rt.label>
   <Gun_HK_UMP45_rt.description>HK-UMP45冲锋枪是一款使用.45ACP弹药的冲锋枪。</Gun_HK_UMP45_rt.description>

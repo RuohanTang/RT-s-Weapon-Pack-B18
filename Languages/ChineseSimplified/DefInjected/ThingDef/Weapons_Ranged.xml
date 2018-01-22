@@ -1,5 +1,45 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
+ 
+
+  <Proj_Shuriken_rt.label>流星镖</Proj_Shuriken_rt.label>
+
+  <Weapon_Shuriken_rt.label>流星镖</Weapon_Shuriken_rt.label>
+  <Weapon_Shuriken_rt.description>流星镖是中国的传统暗器的一种。</Weapon_Shuriken_rt.description>
+
+
+
+
+
+  <Proj_FireExtinguisherProjectile.label>灭火器喷射物</Proj_FireExtinguisherProjectile.label>
+
+  <Ranged_FireExtinguisher_rt.label>灭火器</Ranged_FireExtinguisher_rt.label>
+  <Ranged_FireExtinguisher_rt.description>灭火必备！</Ranged_FireExtinguisher_rt.description>
+
+
+
+
+
+
+  <Proj_TomahawkThrowingAxe_rt.label>印第安人飞斧</Proj_TomahawkThrowingAxe_rt.label>
+
+  <Weapon_TomahawkThrowingAxe_rt.label>印第安人飞斧</Weapon_TomahawkThrowingAxe_rt.label>
+  <Weapon_TomahawkThrowingAxe_rt.description>这斧子能手持攻击也可以用来投掷。</Weapon_TomahawkThrowingAxe_rt.description>
+
+
+
+
+
+  <!-- Slingshot -->
+
+  <Proj_Slingshot_rt.label>简易弹弓的小石子</Proj_Slingshot_rt.label>
+
+  <Weapon_Slingshot_rt.label>简易弹弓</Weapon_Slingshot_rt.label>
+  <Weapon_Slingshot_rt.description>简易弹弓攻击力虽小，但是特别精准。方便殖民者使用和携带。</Weapon_Slingshot_rt.description>
+
+
+
+
 
   <!-- Compoundbow -->
 

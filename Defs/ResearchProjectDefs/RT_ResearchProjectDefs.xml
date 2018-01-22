@@ -21,7 +21,7 @@
   <researchProjectDef>
     <defName>RT_Ballistics</defName>
     <label>Ballistics</label>
-    <description>This project will allow colonists to study mechanics that deals with the launching, flight, behavior, and effects of projectiles, especially bullets, unguided bombs, rockets. It is the science or art of designing and accelerating projectiles so as to achieve a desired performance. Also unlocks "Shurikens" for colonists to craft.</description>
+    <description>This project will allow colonists to study mechanics that deals with the launching, flight, behavior, and effects of projectiles, especially bullets, unguided bombs, rockets. It is the science or art of designing and accelerating projectiles so as to achieve a desired performance. Also unlocks "Shurikens" instantly for colonists to craft.</description>
 	<tab>RT_Weapons</tab>
     <baseCost>1000</baseCost>
     <techLevel>Industrial</techLevel>

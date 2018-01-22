@@ -59,10 +59,10 @@
 
   <!-- Dual Berettas -->
 
-  <Bullet_DualBerettas_rt.label>贝瑞塔手枪子弹</Bullet_DualBerettas_rt.label>
+  <Bullet_BerettaM9_rt.label>贝雷塔手枪子弹</Bullet_BerettaM9_rt.label>
 
-  <Gun_DualBerettas_rt.label>贝瑞塔手枪</Gun_DualBerettas_rt.label>
-  <Gun_DualBerettas_rt.description>贝瑞塔手枪是一种小后坐力的半自动手枪，可以双持。</Gun_DualBerettas_rt.description>
+  <Gun_BerettaM9_rt.label>贝雷塔M9手枪</Gun_BerettaM9_rt.label>
+  <Gun_BerettaM9_rt.description>贝雷塔手枪是一种小后坐力的半自动手枪，可以双持。</Gun_BerettaM9_rt.description>
 
 
 </LanguageData>

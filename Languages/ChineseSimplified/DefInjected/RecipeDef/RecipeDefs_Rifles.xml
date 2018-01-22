@@ -1,6 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
+
+  <InfernoRifleCraft.label>制作地狱火焰步枪</InfernoRifleCraft.label>
+  <InfernoRifleCraft.description>制作地狱火焰步枪。</InfernoRifleCraft.description>
+  <InfernoRifleCraft.jobString>正在制作地狱火焰步枪。</InfernoRifleCraft.jobString>
+
+
   <AK12Craft.label>制作AK-12突击步枪</AK12Craft.label>
   <AK12Craft.description>制作AK-12突击步枪。</AK12Craft.description>
   <AK12Craft.jobString>正在制作AK-12突击步枪。</AK12Craft.jobString>
@@ -25,9 +31,9 @@
   <AK5CCraft.description>制作AK5C突击步枪。</AK5CCraft.description>
   <AK5CCraft.jobString>正在制作AK5C突击步枪。</AK5CCraft.jobString>
 
-  <QBZ95Craft.label>制作95式自动步枪</QBZ95Craft.label>
-  <QBZ95Craft.description>制作95式自动步枪。</QBZ95Craft.description>
-  <QBZ95Craft.jobString>正在制作95式自动步枪。</QBZ95Craft.jobString>
+  <QBZ97Craft.label>制作97式自动步枪</QBZ97Craft.label>
+  <QBZ97Craft.description>制作97式自动步枪。</QBZ97Craft.description>
+  <QBZ97Craft.jobString>正在制作97式自动步枪。</QBZ97Craft.jobString>
 
   <HKG36CCraft.label>制作G36C突击步枪</HKG36CCraft.label>
   <HKG36CCraft.description>制作G36C突击步枪。</HKG36CCraft.description>
@@ -53,9 +59,9 @@
   <SteyrStg77AUGCraft.description>制作斯太尔AUG突击步枪。</SteyrStg77AUGCraft.description>
   <SteyrStg77AUGCraft.jobString>正在制作斯太尔AUG突击步枪。</SteyrStg77AUGCraft.jobString>
 
-  <XM8Craft.label>制作XM8突击步枪</XM8Craft.label>
-  <XM8Craft.description>制作XM8突击步枪。</XM8Craft.description>
-  <XM8Craft.jobString>正在制作XM8突击步枪。</XM8Craft.jobString>
+  <HKXM8Craft.label>制作XM8突击步枪</HKXM8Craft.label>
+  <HKXM8Craft.description>制作XM8突击步枪。</HKXM8Craft.description>
+  <HKXM8Craft.jobString>正在制作XM8突击步枪。</HKXM8Craft.jobString>
 
   <FNF2000Craft.label>制作FN2000突击步枪</FNF2000Craft.label>
   <FNF2000Craft.description>制作FN2000突击步枪。</FNF2000Craft.description>
@@ -65,13 +71,13 @@
   <M14Craft.description>制作M14步枪。</M14Craft.description>
   <M14Craft.jobString>正在制作M14步枪。</M14Craft.jobString>
 
-  <FNSCAR-LCraft.label>制作FN SCAR-L突击步枪</FNSCAR-LCraft.label>
-  <FNSCAR-LCraft.description>制作FN SCAR-L突击步枪。</FNSCAR-LCraft.description>
-  <FNSCAR-LCraft.jobString>正在制作FN SCAR-L突击步枪。</FNSCAR-LCraft.jobString>
+  <FNSCARLCraft.label>制作FN SCAR-L突击步枪</FNSCARLCraft.label>
+  <FNSCARLCraft.description>制作FN SCAR-L突击步枪。</FNSCARLCraft.description>
+  <FNSCARLCraft.jobString>正在制作FN SCAR-L突击步枪。</FNSCARLCraft.jobString>
 
-  <FamasCraft.label>制作Famas突击步枪</FamasCraft.label>
-  <FamasCraft.description>制作Famas突击步枪。</FamasCraft.description>
-  <FamasCraft.jobString>正在制作Famas突击步枪。</FamasCraft.jobString>
+  <FAMASCraft.label>制作Famas突击步枪</FAMASCraft.label>
+  <FAMASCraft.description>制作Famas突击步枪。</FAMASCraft.description>
+  <FAMASCraft.jobString>正在制作Famas突击步枪。</FAMASCraft.jobString>
 
   <L85A2Craft.label>制作L85A2突击步枪</L85A2Craft.label>
   <L85A2Craft.description>制作L85A2突击步枪。</L85A2Craft.description>

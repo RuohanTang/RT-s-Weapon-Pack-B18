@@ -19,9 +19,9 @@
 	<Make_MeleeWeapon_Fireaxe.description>制作消防斧。</Make_MeleeWeapon_Fireaxe.description>
 	<Make_MeleeWeapon_Fireaxe.jobString>正在制作消防斧。</Make_MeleeWeapon_Fireaxe.jobString>	
 
-	<Make_MeleeWeapon_Karambit.label>制作Karambit爪刀</Make_MeleeWeapon_Karambit.label>
-	<Make_MeleeWeapon_Karambit.description>制作Karambit爪刀。</Make_MeleeWeapon_Karambit.description>
-	<Make_MeleeWeapon_Karambit.jobString>正在制作Karambit爪刀。</Make_MeleeWeapon_Karambit.jobString>
+	<Make_MeleeWeapon_Karambit.label>制作爪刀</Make_MeleeWeapon_Karambit.label>
+	<Make_MeleeWeapon_Karambit.description>制作爪刀。</Make_MeleeWeapon_Karambit.description>
+	<Make_MeleeWeapon_Karambit.jobString>正在制作爪刀。</Make_MeleeWeapon_Karambit.jobString>
 		
 	<Make_MeleeWeapon_Machete.label>制作开山刀</Make_MeleeWeapon_Machete.label>
 	<Make_MeleeWeapon_Machete.description>制作开山刀。</Make_MeleeWeapon_Machete.description>

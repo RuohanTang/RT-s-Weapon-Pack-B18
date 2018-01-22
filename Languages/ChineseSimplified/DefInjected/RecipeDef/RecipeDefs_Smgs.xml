@@ -1,6 +1,15 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
+  <BerettaM12Craft.label>制作MP40冲锋枪</BerettaM12Craft.label>
+  <BerettaM12Craft.description>制作贝雷塔M12冲锋枪。</BerettaM12Craft.description>
+  <BerettaM12Craft.jobString>正在制作贝雷塔M12冲锋枪。</BerettaM12Craft.jobString>
+
+    <MP18Craft.label>制作MP18冲锋枪</MP18Craft.label>
+  <MP18Craft.description>制作MP18冲锋枪。</MP18Craft.description>
+  <MP18Craft.jobString>正在制作MP18冲锋枪。</MP18Craft.jobString>
+
+
   <MP40Craft.label>制作MP40冲锋枪</MP40Craft.label>
   <MP40Craft.description>制作MP40冲锋枪。</MP40Craft.description>
   <MP40Craft.jobString>正在制作MP40冲锋枪。</MP40Craft.jobString>

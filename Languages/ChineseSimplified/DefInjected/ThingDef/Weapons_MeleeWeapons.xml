@@ -3,8 +3,8 @@
 
   <!-- Sickle -->
 
-  <MeleeWeapon_Sickle.label>镰刀</MeleeWeapon_Sickle.label>
-  <MeleeWeapon_Sickle.description>这是一个有着半圆形刀片的短柄农业工具。</MeleeWeapon_Sickle.description>
+  <RT_MeleeWeapon_Sickle.label>镰刀</RT_MeleeWeapon_Sickle.label>
+  <RT_MeleeWeapon_Sickle.description>这是一个有着半圆形刀片的短柄农业工具。</RT_MeleeWeapon_Sickle.description>
 
 
   <!-- Pickaxe -->
@@ -21,8 +21,8 @@
 
   <!-- Military Shovel -->
 
-  <MeleeWeapon_Militaryshovel.label>军用铁锹</MeleeWeapon_Militaryshovel.label>
-  <MeleeWeapon_Militaryshovel.description>这把铁锹在繁重的工作下，不会轻易损坏，也不会让你失望。</MeleeWeapon_Militaryshovel.description>
+  <RT_MeleeWeapon_Militaryshovel.label>军用铁锹</RT_MeleeWeapon_Militaryshovel.label>
+  <RT_MeleeWeapon_Militaryshovel.description>这把铁锹在繁重的工作下，不会轻易损坏，也不会让你失望。</RT_MeleeWeapon_Militaryshovel.description>
 
 
   <!-- Fire Axe -->
@@ -33,8 +33,8 @@
 
   <!-- Krambit -->
 
-  <MeleeWeapon_Karambit.label>Karambit爪刀</MeleeWeapon_Karambit.label>
-  <MeleeWeapon_Karambit.description>Karambit爪刀（俗称爪刀）是一种南亚国家常见的便携防身武器。</MeleeWeapon_Karambit.description>
+  <MeleeWeapon_Karambit.label>爪刀</MeleeWeapon_Karambit.label>
+  <MeleeWeapon_Karambit.description>爪刀是一种南亚国家常见的便携防身武器。</MeleeWeapon_Karambit.description>
 
 
   <!-- Machete Knife -->

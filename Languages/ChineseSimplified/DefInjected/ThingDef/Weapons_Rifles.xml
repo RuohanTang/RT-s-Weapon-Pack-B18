@@ -3,6 +3,15 @@
 
   <!-- AK12 -->
 
+  <Proj_InfernoRifle_Flame.label>地狱火焰步枪子弹</Proj_InfernoRifle_Flame.label>
+
+  <Weapon_InfernoRifle_rt.label>地狱火焰步枪</Weapon_InfernoRifle_rt.label>
+  <Weapon_InfernoRifle_rt.description>能发射出火焰！攻击伤害虽小，能照成巨大混乱。请谨慎使用。</Weapon_InfernoRifle_rt.description>
+
+
+
+  <!-- AK12 -->
+
   <Bullet_AK12_rt.label>AK-12突击步枪子弹</Bullet_AK12_rt.label>
 
   <Gun_AK12_rt.label>AK-12突击步枪</Gun_AK12_rt.label>
@@ -51,10 +60,10 @@
 
   <!-- QBZ-95 -->
 
-  <Bullet_QBZ95_rt.label>95式自动步枪子弹</Bullet_QBZ95_rt.label>
+  <Bullet_QBZ97_rt.label>95式自动步枪子弹</Bullet_QBZ97_rt.label>
 
-  <Gun_QBZ95_rt.label>95式自动步枪</Gun_QBZ95_rt.label>
-  <Gun_QBZ95_rt.description>一款无托式突击步枪，使用5.8x42mm（DBP87式枪弹）弹药。</Gun_QBZ95_rt.description>
+  <Gun_QBZ97_rt.label>95式自动步枪</Gun_QBZ97_rt.label>
+  <Gun_QBZ97_rt.description>一款无托式突击步枪，使用5.8x42mm（DBP87式枪弹）弹药。</Gun_QBZ97_rt.description>
 
 
   <!-- HKG36C -->
@@ -131,18 +140,18 @@
 
   <!-- SCAR-L -->
 
-  <Bullet_SCAR_rt.label>FN SCAR-L突击步枪子弹</Bullet_SCAR_rt.label>
+  <Bullet_SCARL_rt.label>FN SCAR-L突击步枪子弹</Bullet_SCARL_rt.label>
 
-  <Gun_SCAR_rt.label>FN SCAR-L突击步枪</Gun_SCAR_rt.label>
-  <Gun_SCAR_rt.description>FN SCAR-L突击步枪是专供特战部队使用的模块化步枪，L型是使用5.56 NATO弹的轻量型版本。</Gun_SCAR_rt.description>
+  <Gun_SCARL_rt.label>FN SCAR-L突击步枪</Gun_SCARL_rt.label>
+  <Gun_SCARL_rt.description>FN SCAR-L突击步枪是专供特战部队使用的模块化步枪，L型是使用5.56 NATO弹的轻量型版本。</Gun_SCARL_rt.description>
 
 
   <!-- Famas -->
 
   <Bullet_Famas_rt.label>Famas突击步枪子弹</Bullet_Famas_rt.label>
 
-  <Gun_Famas_rt.label>Famas突击步枪</Gun_Famas_rt.label>
-  <Gun_Famas_rt.description>Famas突击步枪采用无托式结构，由旧世界一个叫法国的国家制造和装备。</Gun_Famas_rt.description>
+  <Gun_FAMAS_rt.label>Famas突击步枪</Gun_FAMAS_rt.label>
+  <Gun_FAMAS_rt.description>Famas突击步枪采用无托式结构，由旧世界一个叫法国的国家制造和装备。</Gun_FAMAS_rt.description>
 
 
   <!-- L85A2 -->

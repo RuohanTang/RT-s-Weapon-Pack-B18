@@ -1,6 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
+  <Kar98Craft.label>制作Kar 98k毛瑟步枪</Kar98Craft.label>
+  <Kar98Craft.description>制作Kar 98k毛瑟步枪。</Kar98Craft.description>
+  <Kar98Craft.jobString>正在制作Kar 98k毛瑟步枪。</Kar98Craft.jobString>
+
+
   <SteyrSSG08Craft.label>制作斯太尔SSG08狙击步枪</SteyrSSG08Craft.label>
   <SteyrSSG08Craft.description>制作斯太尔SSG08狙击步枪。</SteyrSSG08Craft.description>
   <SteyrSSG08Craft.jobString>正在制作斯太尔SSG08狙击步枪。</SteyrSSG08Craft.jobString>
