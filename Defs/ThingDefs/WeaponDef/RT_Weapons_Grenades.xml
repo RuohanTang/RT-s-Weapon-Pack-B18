@@ -364,7 +364,7 @@
       <graphicClass>Graphic_Single</graphicClass>
     </graphicData>
     <projectile>
-      <explosionRadius>3</explosionRadius>
+      <explosionRadius>2</explosionRadius>
       <damageDef>Bomb</damageDef>
       <damageAmountBase>0</damageAmountBase>
       <explosionDelay>10</explosionDelay>
@@ -399,7 +399,7 @@
         <range>17</range>
         <forcedMissRadius>1</forcedMissRadius>
         <warmupTime>1</warmupTime>
-        <noiseRadius>3</noiseRadius>
+        <noiseRadius>1</noiseRadius>
 		<ai_IsBuildingDestroyer>false</ai_IsBuildingDestroyer>		
         <soundCast>ThrowGrenade</soundCast>
 		<onlyManualCast>true</onlyManualCast>
@@ -433,7 +433,7 @@
       <graphicClass>Graphic_Single</graphicClass>
     </graphicData>
     <projectile>
-      <explosionRadius>5</explosionRadius>
+      <explosionRadius>4</explosionRadius>
       <damageDef>Bomb</damageDef>
       <damageAmountBase>0</damageAmountBase>
       <explosionDelay>15</explosionDelay>
@@ -467,7 +467,7 @@
         <range>17</range>
         <forcedMissRadius>1</forcedMissRadius>
         <warmupTime>1.5</warmupTime>
-        <noiseRadius>4</noiseRadius>
+        <noiseRadius>1</noiseRadius>
 		<ai_IsBuildingDestroyer>false</ai_IsBuildingDestroyer>		
         <soundCast>ThrowGrenade</soundCast>
 		<onlyManualCast>true</onlyManualCast>

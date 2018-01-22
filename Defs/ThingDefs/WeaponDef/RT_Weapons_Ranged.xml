@@ -142,7 +142,7 @@
         <verbClass>Verb_Shoot</verbClass>
         <hasStandardCommand>true</hasStandardCommand>
         <defaultProjectile>Proj_Slingshot_rt</defaultProjectile>
-		<warmupTime>1.5</warmupTime>
+		<warmupTime>1</warmupTime>
         <range>29</range>
         <soundCast>SlingShot</soundCast>
 		<!-- <burstShotCount>2</burstShotCount>
@@ -464,7 +464,7 @@
     </graphicData>
     <projectile>
       <flyOverhead>false</flyOverhead>
-      <damageDef>Arrow</damageDef>
+      <damageDef>ArrowHighVelocity</damageDef>
       <damageAmountBase>25</damageAmountBase>
       <speed>45</speed>	  
     </projectile>

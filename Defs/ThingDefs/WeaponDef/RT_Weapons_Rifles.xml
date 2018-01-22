@@ -154,7 +154,7 @@
                 <hasStandardCommand>true</hasStandardCommand>
                 <defaultProjectile>Proj_InfernoRifle_Flame</defaultProjectile>
                 <warmupTime>3</warmupTime>
-                <range>12</range>
+                <range>16</range>
                 <burstShotCount>5</burstShotCount>
                 <ticksBetweenBurstShots>9</ticksBetweenBurstShots>
 				<forcedMissRadius>1</forcedMissRadius>			
