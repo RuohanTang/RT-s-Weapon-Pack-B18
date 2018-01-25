@@ -394,10 +394,10 @@
     <statBases>
 	  <Mass>13.5</Mass>
 
-      <AccuracyTouch>0.55</AccuracyTouch>
-      <AccuracyShort>0.70</AccuracyShort>
-      <AccuracyMedium>0.87</AccuracyMedium>
-      <AccuracyLong>0.90</AccuracyLong>
+      <AccuracyTouch>0.45</AccuracyTouch>
+      <AccuracyShort>0.60</AccuracyShort>
+      <AccuracyMedium>0.75</AccuracyMedium>
+      <AccuracyLong>0.88</AccuracyLong>
       <RangedWeapon_Cooldown>4.00</RangedWeapon_Cooldown> 
  <Weapon_Bulk>2.0</Weapon_Bulk>
     </statBases>
