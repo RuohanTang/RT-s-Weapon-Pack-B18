@@ -56,6 +56,7 @@
   </ThingDef>
 
 	<ThingDef Name="RT_BaseMeleeWeapon_Sharp" ParentName="RT_BaseMeleeWeapon" Abstract="True">
+
     <recipeMaker>
 
     <defaultIngredientFilter>
@@ -72,6 +73,7 @@
   </ThingDef>
 
   <ThingDef Name="RT_BaseMeleeWeapon_Blunt" ParentName="RT_BaseMeleeWeapon" Abstract="True">
+
     <recipeMaker>
 	
       <defaultIngredientFilter>
@@ -88,6 +90,7 @@
 
 
 	<ThingDef Name="RT_BaseMeleeWeapon_Sharp_CQB" ParentName="RT_BaseMeleeWeapon" Abstract="True">
+	<smeltable>true</smeltable>	
     <recipeMaker>
 	<researchPrerequisite>RT_Melee</researchPrerequisite>
     <defaultIngredientFilter>
@@ -104,6 +107,7 @@
   </ThingDef>
 
   <ThingDef Name="RT_BaseMeleeWeapon_Blunt_CQB" ParentName="RT_BaseMeleeWeapon" Abstract="True">
+ 	<smeltable>true</smeltable> 
     <recipeMaker>
 	<researchPrerequisite>RT_Melee</researchPrerequisite>	
       <defaultIngredientFilter>
@@ -218,11 +222,12 @@
         <cooldownTime>1.8</cooldownTime>
       </li>	  
     </tools>
-	<smeltProducts>
-		<Steel>3</Steel>
-	</smeltProducts>	
-	</ThingDef>  
 
+<!-- 	<smeltProducts>
+		<Steel>3</Steel>
+	</smeltProducts> -->		
+
+	</ThingDef>  
   <!-- ============================Military Shovel================================== -->	
 	
 	<ThingDef ParentName="RT_BaseMeleeWeapon_Blunt_Quality_CQB">
@@ -274,9 +279,9 @@
         <cooldownTime>2.15</cooldownTime>
       </li>
     </tools>
-	<smeltProducts>
+<!-- 	<smeltProducts>
 		<Steel>3</Steel>
-	</smeltProducts>	
+	</smeltProducts> -->	
 	</ThingDef>  
 
   <!-- ============================Pickaxe================================== -->
@@ -326,9 +331,9 @@
       </li>
     </tools>
 
-	<smeltProducts>
+<!-- 	<smeltProducts>
 		<Steel>3</Steel>
-	</smeltProducts>	
+	</smeltProducts> -->		
   </ThingDef> 	
 
   <!-- ============================Butcher Knife================================== -->
@@ -387,9 +392,9 @@
       </li>
     </tools>
 
-	<smeltProducts>
+<!-- 	<smeltProducts>
 		<Steel>3</Steel>
-	</smeltProducts>	
+	</smeltProducts> -->		
   </ThingDef> 
 
   <!-- ============================Fire Axe================================== -->
@@ -439,9 +444,9 @@
       </li>
     </tools>
 
-	<smeltProducts>
-		<Steel>6</Steel>
-	</smeltProducts>	
+<!-- 	<smeltProducts>
+		<Steel>3</Steel>
+	</smeltProducts> -->	
   </ThingDef> 
 
   
@@ -495,9 +500,9 @@
       </li>
     </tools>
 
-	<smeltProducts>
-		<Steel>2</Steel>
-	</smeltProducts>	
+<!-- 	<smeltProducts>
+		<Steel>3</Steel>
+	</smeltProducts> -->	
   </ThingDef>
  
   
@@ -560,10 +565,9 @@
         <cooldownTime>1</cooldownTime>
       </li>
     </tools>
-
-	<smeltProducts>
-		<Steel>4</Steel>
-	</smeltProducts>	
+<!-- 	<smeltProducts>
+		<Steel>3</Steel>
+	</smeltProducts> -->		
   </ThingDef> 
   
    <!-- ============================Katana ================================== -->
@@ -624,9 +628,9 @@
       </li>
     </tools>
 
-	<smeltProducts>
-		<Steel>5</Steel>
-	</smeltProducts>	
+<!-- 	<smeltProducts>
+		<Steel>3</Steel>
+	</smeltProducts> -->		
   </ThingDef> 
 
  
@@ -687,9 +691,9 @@
       </li>
     </tools>
 
-	<smeltProducts>
+<!-- 	<smeltProducts>
 		<Steel>3</Steel>
-	</smeltProducts>	
+	</smeltProducts> -->		
   </ThingDef>
 
 
@@ -749,9 +753,9 @@
         <cooldownTime>1.5</cooldownTime>
       </li>
     </tools>
-	<smeltProducts>
+<!-- 	<smeltProducts>
 		<Steel>3</Steel>
-	</smeltProducts>	
+	</smeltProducts> -->		
   </ThingDef>
 
 
@@ -804,9 +808,9 @@
         <cooldownTime>1.2</cooldownTime>
       </li>
     </tools>
-	<smeltProducts>
-		<Steel>4</Steel>
-	</smeltProducts>	
+<!-- 	<smeltProducts>
+		<Steel>3</Steel>
+	</smeltProducts> -->	
   </ThingDef>
 
     <!-- ============================Baton================================== -->
@@ -858,9 +862,9 @@
         <cooldownTime>0.7</cooldownTime>
       </li>
     </tools>
-	<smeltProducts>
+<!-- 	<smeltProducts>
 		<Steel>3</Steel>
-	</smeltProducts>	
+	</smeltProducts> -->		
   </ThingDef>
 
    <!-- ============================Huntsman================================== -->
@@ -920,9 +924,9 @@
       </li>
     </tools>
 
-	<smeltProducts>
-		<Steel>4</Steel>
-	</smeltProducts>	
+<!-- 	<smeltProducts>
+		<Steel>3</Steel>
+	</smeltProducts> -->		
   </ThingDef>
   
   
@@ -985,9 +989,9 @@
         <cooldownTime>1</cooldownTime>
       </li>
     </tools>
-	<smeltProducts>
-		<Steel>4</Steel>
-	</smeltProducts>	
+<!-- 	<smeltProducts>
+		<Steel>3</Steel>
+	</smeltProducts> -->		
   </ThingDef>
   
 
